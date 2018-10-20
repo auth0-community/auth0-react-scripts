@@ -69,9 +69,12 @@
     "whatwg-fetch": "1.0.0"
   },
   "devDependencies": {
+    "auth0-lock": "^11.10.0",
     "bundle-deps": "1.0.0",
+    "jwt-decode": "^2.2.0",
     "react": "^15.3.0",
-    "react-dom": "^15.3.0"
+    "react-dom": "^15.3.0",
+    "react-router": "^3.2.1"
   },
   "optionalDependencies": {
     "fsevents": "1.0.14"
