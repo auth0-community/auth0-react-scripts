@@ -1,39 +1,36 @@
-If you are reporting a bug, please fill in below. Otherwise feel free to remove this template entirely.
+# Issue Report
+
+If you are reporting a bug, please fill the sections below (if they are applicable), otherwise feel free to delete those that don't apply. Thank you! 🙏🏼
 
 ### Description
 
-What are you reporting?
+What are you reporting? 
 
-### Expected behavior
+### Expected behaviour
 
 Tell us what you think should happen.
 
-### Actual behavior
+### Actual behaviour 
 
 Tell us what actually happens.
 
-### Environment
+### Steps to reproduce the problem
 
-Run these commands in the project folder and fill in their results:
+Tell us what we should do to reproduce the issue.
 
-1. `npm ls react-scripts` (if you haven’t ejected): 
-2. `node -v`: 
-3. `npm -v`:
+### Language / Framework Versions
 
-Then, specify:
+1. **Language used:**
+2. **Framework used:**
 
-1. Operating system:
-2. Browser and version:
+### Testing environment
 
-### Reproducible Demo
+1. **Operating system:**
+2. **Browser version:**
 
-Please take the time to create a new app that reproduces the issue.
+### Screenshots
 
-Alternatively, you could copy your app that experiences the problem and start removing things until you’re left with the minimal reproducible demo.
+Feel free to insert here any screenshots that you consider helpful in solving your issue.
 
-(Accidentally, you might get to the root of your problem during that process.)
 
-Push to GitHub and paste the link here.
-
-By doing this, you're helping the Create React App contributors a big time!
-Demonstrable issues gets fixed faster.
+**Filling this, you're helping yourself and repo maintainers in solving your issues quicker! Teamwork makes the dreamwork 🤜🏼🤛🏻**
