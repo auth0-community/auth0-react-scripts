@@ -1,4 +1,5 @@
 # React Scripts
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 <img src="https://img.shields.io/badge/community-driven-brightgreen.svg"/> <br>
 
 Use [create-react-app](https://github.com/facebookincubator/create-react-app) to bootstrap a new React project with authentication.
@@ -119,3 +120,19 @@ Auth0 helps you to:
 
 * Go to [Auth0 website](https://auth0.com/signup)
 * Hit the **SIGN UP** button in the upper-right corner
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="http://ryanchenkie.com"><img src="https://avatars1.githubusercontent.com/u/1847678?v=4" width="100px;" alt="Ryan Chenkie"/><br /><sub><b>Ryan Chenkie</b></sub></a><br /><a href="https://github.com/auth0-community/auth0-react-scripts/commits?author=chenkie" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
