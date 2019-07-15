@@ -13,6 +13,16 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "beardaway",
+      "name": "Conrad Sopala",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/11062800?v=4",
+      "profile": "https://twitter.com/beardaway",
+      "contributions": [
+        "maintenance",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
